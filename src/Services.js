@@ -4,7 +4,7 @@ export default function Services() {
     
     return(
     <div>
-        <p>Hello there</p>
+        <p>Hello there, this is SERVICES</p>
 
     </div>
     )}

@@ -4,6 +4,10 @@
     margin: 0px;
 }
 
+a{
+    margin: 25px;
+    color: violet;
+}
 .paragraphStylingOne{
     font-size: 20px;
     color: brown;
